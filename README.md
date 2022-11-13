@@ -2,4 +2,4 @@
 
 Weather App
 
-Deployment link [https://weather-app-meezan.herokuapp.com/]
+Deployment link [Weather App](https://weather-app-meezan.herokuapp.com/)
